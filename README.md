@@ -11,7 +11,7 @@ This project shows the way to implement all the basic developments tool.
 
 ## Project Screenshot
 
-![Project screenshot]( Hello_Microverse/Microverse_Project.PNG )
+![Project screenshot](Microverse_Project.PNG)
 
 ## Authors
 

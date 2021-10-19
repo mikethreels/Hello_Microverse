@@ -9,9 +9,6 @@ This project shows the way to implement all the basic developments tool.
 -HTML - CSS
 -GIT/GITHUB
 
-## Project Screenshot
-
-![Project screenshot](Microverse_Project.PNG)
 
 ## Authors
 
